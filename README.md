@@ -28,7 +28,7 @@ This project provides a Java-based simulation of Vampire Attacks in Wireless Ad-
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-username/Vampire-Attacks-Draining-Life-from-Wireless-Ad-Hoc-Sensor-Networks.git
+    git clone https://github.com/mukul975/Vampire-Attacks-Draining-Life-from-Wireless-Ad-Hoc-Sensor-Networks.git
     ```
 2.  Open the project in NetBeans.
 
